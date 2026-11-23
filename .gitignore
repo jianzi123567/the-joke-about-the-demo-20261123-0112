@@ -1,0 +1,7 @@
+# Python bytecode
+__pycache__/
+*.pyc
+# Local test outputs (the program writes to /output by default)
+out/
+out2/
+/output/
